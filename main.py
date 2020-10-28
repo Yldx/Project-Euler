@@ -9,4 +9,3 @@ def multipleOf3and5(number):
     return total
 
 
-print(multipleOf3and5(19564))
